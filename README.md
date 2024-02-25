@@ -13,3 +13,5 @@ The workflow was taken directly from [Dan Schlosser's website](https://schlosser
 Type "res" into Alfred to start the workflow.
 
 ## Showcase
+
+![rdm1](https://github.com/gogamid/alfred-rdm/assets/36050790/ac27240f-b972-4459-9349-12fb316d5105)
