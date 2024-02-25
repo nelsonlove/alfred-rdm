@@ -1,5 +1,0 @@
-sm|small|1600|900
-md|medium|2048|1152
-lg|large|2560|1440
-xl|extra-large|3200|1800
-xxl|extra-extra-large|3840|2160
